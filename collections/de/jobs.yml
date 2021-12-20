@@ -88,7 +88,7 @@ body:
         alias: job
         term: User-Interface Designer (m/w/d)
         resource: jobs/user-interface-designer
-        
+
       - type: collection
         alias: job
         term: Webentwickler (m/w/d)
