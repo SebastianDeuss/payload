@@ -1,0 +1,53 @@
+type: newsletter
+
+meta:
+  title: on the move
+  subject: Convoy Interactive - on the move
+
+hero:
+  type: image
+  title: on the move
+  alt: on the Move
+  path: images/hero-2@2x
+
+body:
+  - type: markdown
+    title: Liebe Kunden, Freunde und Partner,
+    body: |
+      unseren ersten und damit wohl auch einzigen Newsletter in diesem Jahr möchten wir zum Anlass nehmen, euch allen eine tolle Weihnachtszeit und ein glückliches neues Jahr zu wünschen. Wir sind froh und dankbar über die vielen tollen Projekte, an denen wir in diesen nach wie vor sehr turbulenten Zeiten gemeinsam mit euch arbeiten durften.
+
+      Nach einer kleinen Verschnaufpause über die Feiertage widmen wir uns ab der zweiten Januarwoche wieder allen spannenden Themen rund um Websites, Apps und Online Marketing.
+
+  - type: image
+    title: Goodbye St. Pauli, hello Ottensen
+    alt: New Office
+    path: images/buero@2x
+
+  - type: markdown
+    body: |
+      Das Titelmotiv deutet es schon an: Da unser Team in diesem Jahr ein ganzes Stück gewachsen ist und unsere bisherige Bürofläche langsam aber sicher zu klein wird, verlassen wir nach knapp 10 Jahren unsere geliebte Schanze und beziehen zum Jahresanfang unsere neuen Flächen in den Kolbenhöfen in Hamburg Ottensen.
+
+      Wir freuen uns natürlich, wenn wir die mit Leben füllen können sowie es die Gesamtlage wieder zulässt. Insofern gilt dann hoffentlich spätestens im Frühjahr: Wenn ihr in der Gegend seid, kommt gerne auf einen Kaffee und ein Franzbrötchen vorbei.
+
+  - type: markdown
+    title: "Projekte: Sharing is Caring"
+
+  - type: group
+    items:
+      - type: image
+        alt: Pfeiffer-Vacuum
+        path: images/pfeiffer@2x
+      - type: markdown
+        title: Pfeiffer Vacuum
+        body: Für den international tätigen Maschinenbaukonzern Pfeiffer Vacuum AG entwickelten wir einen Konfigurator, mit dem Weihnachts- und Neujahrsgrüße an Kollegen, Kunden und Freunde verschickt werden können. Dabei lässt sich eine Vielzahl von Motiven kombinieren und als individuelle Grußbotschaft in einer von fünf Sprachen versenden. 试试吧!
+        url: https://group.pfeiffer-vacuum.com/de/2021/#/
+
+  - type: group
+    items:
+      - type: image
+        alt: Schöner Wohnen Farbe
+        path: images/swf@2x
+      - type: markdown
+        title: SCHÖNER WOHNEN-Farbe
+        body: Digitale Weihnachtsgrüße lassen sich auch mit SCHÖNER WOHNEN-Farbe versenden. Dafür entwickelten wir ein weihnachtliches Alphabet, mit dem sich Grußbotschaften individuell erstellen und an die Liebsten versenden lassen.
+        url: https://alphabet.schoener-wohnen-farbe.com/#/
