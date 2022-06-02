@@ -81,19 +81,6 @@ body:
         poster: images/poster/convoy-jobs-video-4
         path: videos/convoy-jobs-video-4
 
-  - type: definition
-    title: Aktuell suchen wir
-    items:
-      - type: collection
-        alias: job
-        term: User-Interface Designer (m/w/d)
-        resource: jobs/user-interface-designer
-
-      - type: collection
-        alias: job
-        term: Webentwickler (m/w/d)
-        resource: jobs/webdeveloper
-
 relations:
   - type: component
     alias: contact
