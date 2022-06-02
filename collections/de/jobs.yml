@@ -81,6 +81,14 @@ body:
         poster: images/poster/convoy-jobs-video-4
         path: videos/convoy-jobs-video-4
 
+  - type: definition
+    title: Aktuell suchen wir
+    items:
+      - type: collection
+        alias: job
+        term: Frontend Developer (m/w/d)
+        resource: jobs/frontend-developer
+
 relations:
   - type: component
     alias: contact
