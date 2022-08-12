@@ -1,13 +1,13 @@
 type: default
 
 meta:
-  title: Frontend Developer (m/w/d) gesucht
-  description: Wir suchen einen Frontend Developer (m/w/d) zur Verstärkung unseres interdisziplinären Teams.
+  title: Frontend Developer:in gesucht
+  description: Wir suchen eine:n Frontend Developer:in zur Verstärkung unseres interdisziplinären Teams.
   image: images/convoy-hinterhof
 
 hero:
   type: image
-  title: Frontend Developer (m/w/d)
+  title: Frontend Developer:in
   subtitle: Stellenangebot
   sizes:
     small: images/convoy-hinterhof-mobile
@@ -16,7 +16,7 @@ hero:
 excerpt:
   - type: markdown
     body: |
-      Wir suchen einen Frontend Developer (m/w/d) zur Unterstützung unseres Teams. Fest oder frei, vor Ort in unserem Hamburger Office oder remote.
+      Wir suchen eine:n Frontend Entwickler:in zur Unterstützung unseres Teams. Fest oder frei, vor Ort in unserem Hamburger Office oder remote.
 
       Einstieg ab sofort
 
@@ -24,11 +24,11 @@ body:
   - type: markdown
     title: Über uns
     body: |
-      Convoy ist eine Hamburger Digitalagentur. Mit viel Leidenschaft gestalten und entwickeln wir in einem interdisziplinären Team Nutzererlebnisse von morgen.
+      Convoy ist eine Hamburger Digitalagentur. Mit viel Leidenschaft gestalten und entwickeln wir in einem interdisziplinären Team digitale Erlebnisse von morgen.
 
-      Wir sind der festen Überzeugung, dass wirklich kreative Lösungen nur in einem entspannten und vertrauensvollen Arbeitsumfeld entstehen. Dafür braucht es neben einer guten Portion Teamplay ein respektvolles Miteinander, flache Hierarchien und kurze Kommunikationswege. Nicht zuletzt deshalb besteht unser Team zu nahezu gleichen Teilen aus Designern und Entwicklern, die gemeinsam an Projekten arbeiten. Alle sind Experten, jeder in einer anderen Disziplin. Was uns verbindet ist die Leidenschaft für funktionales und ästhetisches Design und das Interesse an digitalen Trends und neuen Technologien.
+      Wir sind der festen Überzeugung, dass wirklich kreative Lösungen nur in einem entspannten und vertrauensvollen Arbeitsumfeld entstehen. Dafür braucht es neben einer guten Portion Teamplay ein respektvolles Miteinander, flache Hierarchien und kurze Kommunikationswege. Nicht zuletzt deshalb besteht unser Team zu nahezu gleichen Teilen aus Designer:innen und Entwickler:innen, die gemeinsam an Projekten arbeiten. Was uns verbindet ist die Leidenschaft für funktionales und ästhetisches Design und das Interesse an digitalen Trends und neuen Technologien.
 
-      Sollte es dir genauso gehen, bewirb dich bei uns und lass uns gemeinsam herausfinden, wie gut wir zusammenpassen. Dafür genügt ein Link zu deinem Portfolio, ein paar Sätze zu deiner Person und Angaben zu deinen Gehaltsvorstellungen. Alles andere klären wir später.
+      Sollte es dir genauso gehen, bewirb dich bei uns und lass uns gemeinsam herausfinden, wie gut wir zusammenpassen. Dafür genügt ein Link zu deinem Portfolio / Github, ein paar Sätze zu deiner Person und Angaben zu deinen Gehaltsvorstellungen. Alles andere klären wir später.
 
   - type: markdown
     title: Unser Stack
@@ -70,7 +70,7 @@ body:
 
   - type: markdown
     body: |
-      Als Frontend Developer bist Du verantwortlich für die Umsetzung von Web- und Software Interfaces mit ReactJS oder Vue. Darüber hinaus bist du es gewohnt in agilen Prozessen zu arbeiten, hast Spaß an der Umsetzung designorientierter Projekte und bringst dich gern mit eigenen Ideen ein.
+      Als Frontend Entwickler:in bist Du verantwortlich für die Umsetzung von Web- und Software Interfaces mit ReactJS oder Vue. Darüber hinaus bist du es gewohnt in agilen Prozessen zu arbeiten, hast Spaß an der Umsetzung designorientierter Projekte und bringst dich gern mit eigenen Ideen ein.
 
   - type: list
     title: Das bringst du mit

@@ -2,7 +2,7 @@ type: services
 
 meta:
   title: Agentur für User Interface Design Hamburg | Convoy Interactive
-  description: Als Experten für User Interface Design (UI-Design Agentur) legen wir Wert auf klare Designs und suchen jeweils die beste Lösung für jede Zielgruppe.
+  description: Als Expert:innen für User Interface Design (UI-Design Agentur) legen wir Wert auf klare Designs und suchen jeweils die beste Lösung für jede Zielgruppe.
   image: images/services/ui-design
   alternates:
     en: services/user-interface-design
@@ -16,7 +16,7 @@ hero:
 body:
   - type: markdown
     body: |
-      Wir legen Wert auf klare Designs aus einem Guss, die wir systematisch und modular erstellen und in Pattern Libraries dokumentieren. Dabei suchen wir die jeweils beste Lösung für jede Zielgruppe und jeden Use Case. Damit Sie neue Kunden begeistern und bestehende binden.
+      Wir legen Wert auf klare Designs aus einem Guss, die wir systematisch und modular erstellen und in Pattern Libraries dokumentieren. Dabei suchen wir die jeweils beste Lösung für jede Zielgruppe und jeden Use Case. Damit Sie neue Kund:innen begeistern und bestehende binden.
 
   - type: definition
     title: Unsere Leistungen im Detail
@@ -24,7 +24,7 @@ body:
       - type: markdown
         term: User Interface Design
         body: |
-          Wir gestalten ansprechende und intuitiv bedienbare digitale Nutzeroberflächen und Interaktionsprozesse. Indem wir viel Arbeit in jedes Detail stecken, verleihen wir Ihrer Website oder App einen individuellen Look, der Ihre Marke digital erlebbar macht. Dabei stellen wir sicher, dass Anwender auch komplexe Inhalte und Funktionen schnell erfassen und einfach ans jeweilige Ziel gelangen.
+          Wir gestalten ansprechende und intuitiv bedienbare digitale Nutzeroberflächen und Interaktionsprozesse. Indem wir viel Arbeit in jedes Detail stecken, verleihen wir Ihrer Website oder App einen individuellen Look, der Ihre Marke digital erlebbar macht. Dabei stellen wir sicher, dass Anwender:innen auch komplexe Inhalte und Funktionen schnell erfassen und einfach ans jeweilige Ziel gelangen.
       - type: markdown
         term: Responsive Web Design
         body: |
@@ -32,7 +32,7 @@ body:
       - type: markdown
         term: Interaction Design
         body: |
-          Moderne Websites und Anwendungen sind viel mehr als statische Screens. Durch die Integration von Animationen, Videos und Micro-Interactions gestalten wir digitale Erlebnisse, die begeistern. Neben dem außergewöhnlichen Look sorgen wir auch für das entsprechende Feel. Das verstärkt den Joy of Use, garantiert ein höheres Involvement der Nutzer und schafft so mehr Aufmerksamkeit für Ihre Produkte.
+          Moderne Websites und Anwendungen sind viel mehr als statische Screens. Durch die Integration von Animationen, Videos und Micro-Interactions gestalten wir digitale Erlebnisse, die begeistern. Neben dem außergewöhnlichen Look sorgen wir auch für das entsprechende Feel. Das verstärkt den Joy of Use, garantiert ein höheres Involvement der Nutzer:innen und schafft so mehr Aufmerksamkeit für Ihre Produkte.
       - type: markdown
         term: Design-Systems + Pattern Libraries
         body: |

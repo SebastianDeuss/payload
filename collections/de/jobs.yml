@@ -24,11 +24,11 @@ body:
   - type: markdown
     title: Wen wir suchen
     body: |
-      Wir sind der festen Überzeugung, dass wirklich kreative Lösungen nur in einem entspannten und vertrauensvollen Arbeitsumfeld entstehen. Dafür braucht es neben einer guten Portion Teamplay ein respektvolles Miteinander, flache Hierarchien und kurze Kommunikationswege.
+      Convoy ist eine Hamburger Digitalagentur. Mit viel Leidenschaft gestalten und entwickeln wir in einem interdisziplinären Team Nutzererlebnisse von morgen.
 
-      Nicht zuletzt deshalb besteht unser Team zu nahezu gleichen Teilen aus Designern und Entwicklern, die gemeinsam an Projekten arbeiten. Alle sind Experten, jeder in einer anderen Disziplin. Was uns verbindet ist die Leidenschaft für funktionales und ästhetisches Design und ein generelles Interesse an digitalen Trends und neuen Technologien.
+      Wir sind der festen Überzeugung, dass wirklich kreative Lösungen nur in einem entspannten und vertrauensvollen Arbeitsumfeld entstehen. Dafür braucht es neben einer guten Portion Teamplay ein respektvolles Miteinander, flache Hierarchien und kurze Kommunikationswege. Nicht zuletzt deshalb besteht unser Team zu nahezu gleichen Teilen aus Designer:innen und Entwickler:innen, die gemeinsam an Projekten arbeiten. Was uns verbindet ist die Leidenschaft für funktionales und ästhetisches Design und das Interesse an digitalen Trends und neuen Technologien.
 
-      Sollte es dir genauso gehen, bewirb dich bei uns und lass uns gemeinsam herausfinden, wie gut wir zusammenpassen. Dafür genügt ein Link zu deinem Portfolio und ein paar Sätze zu deiner Person. Alles andere klären wir später.
+      Sollte es dir genauso gehen, bewirb dich bei uns und lass uns gemeinsam herausfinden, wie gut wir zusammenpassen. Dafür genügt ein Link zu deinem Portfolio, ein paar Sätze zu deiner Person und Angaben zu deinen Gehaltsvorstellungen. Alles andere klären wir später.
 
   - type: list
     title: Was wir bieten
@@ -42,9 +42,9 @@ body:
       - type: text
         body: Flexible und geregelte Arbeitszeiten, faire Bezahlung sowie einen unbefristeten Arbeitsvertrag.
       - type: text
-        body: Einen Platz in einem Team aus netten und kompetenten Kolleginnen und Kollegen.
+        body: Einen Platz in einem Team aus netten und kompetenten Kolleg:innen.
       - type: text
-        body: Ein inspirierendes Arbeitsumfeld in einem schicken Büro mit Blick über Sankt Pauli.
+        body: Ein Sonus Soundsystem, dass dich bis auf die Unterhose nass macht.
       - type: text
         body: Goodies wie einen Zuschuss zu deiner HVV-Monatskarte, Bio-Obst, Teilnahme an Konferenzen und andere Weiterbildungsmaßnahmen.
 
@@ -86,7 +86,7 @@ body:
     items:
       - type: collection
         alias: job
-        term: Frontend Developer (m/w/d)
+        term: Frontend Developer:in
         resource: jobs/frontend-developer
 
 relations:

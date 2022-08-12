@@ -94,7 +94,7 @@ body:
         path: images/cases/thies-raetzke-mobile-news
       - type: image
         alias: phone
-        alt: Die Bildergalerie Deutsche Politiker von Thies Rätzke Images
+        alt: Die Bildergalerie Deutsche Politiker:innen von Thies Rätzke Images
         path: images/cases/thies-raetzke-mobile-portfolio
       - type: image
         alias: phone

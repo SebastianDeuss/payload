@@ -12,7 +12,7 @@ hero:
 
 body:
   - type: markdown
-    title: Liebe Kunden, Freunde und Partner,
+    title: Liebe Kund-, Freund- und Partner:innen,
     body: |
       unseren ersten und damit wohl auch einzigen Newsletter in diesem Jahr möchten wir zum Anlass nehmen, euch allen eine tolle Weihnachtszeit und ein glückliches neues Jahr zu wünschen. Wir sind froh und dankbar über die vielen tollen Projekte, an denen wir in diesen nach wie vor sehr turbulenten Zeiten gemeinsam mit euch arbeiten durften.
 
@@ -39,7 +39,7 @@ body:
         path: images/pfeiffer@2x
       - type: markdown
         title: Pfeiffer Vacuum
-        body: Für den international tätigen Maschinenbaukonzern Pfeiffer Vacuum AG entwickelten wir einen Konfigurator, mit dem Weihnachts- und Neujahrsgrüße an Kollegen, Kunden und Freunde verschickt werden können. Dabei lässt sich eine Vielzahl von Motiven kombinieren und als individuelle Grußbotschaft in einer von fünf Sprachen versenden. 试试吧!
+        body: Für den international tätigen Maschinenbaukonzern Pfeiffer Vacuum AG entwickelten wir einen Konfigurator, mit dem Weihnachts- und Neujahrsgrüße an Kolleg:innen, Kund:innen und Freund:innen verschickt werden können. Dabei lässt sich eine Vielzahl von Motiven kombinieren und als individuelle Grußbotschaft in einer von fünf Sprachen versenden. 试试吧!
         url: https://group.pfeiffer-vacuum.com/de/2021/#/
 
   - type: group

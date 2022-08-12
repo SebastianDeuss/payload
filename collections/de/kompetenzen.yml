@@ -26,7 +26,7 @@ body:
     resource: services
 
   - type: component
-    title: Ausgewählte Kunden
+    title: Ausgewählte Kund:innen
     resource: clients
 
 relations:

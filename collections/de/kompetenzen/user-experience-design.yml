@@ -16,7 +16,7 @@ hero:
 body:
   - type: markdown
     body: |
-      Bei allem was wir tun, stellen wir den Nutzer, seine Bedürfnisse, Erwartungen und Gewohnheiten in den Mittelpunkt. Dabei agieren wir als Außenstehende unbefangen und sehen Dinge aus einer anderen Perspektive. So entstehen Anwendungen, die Menschen überzeugen und wirklich genutzt werden.
+      Bei allem was wir tun, stellen wir die Nutzer:innen, deren Bedürfnisse, Erwartungen und Gewohnheiten in den Mittelpunkt. Dabei agieren wir als Außenstehende unbefangen und sehen Dinge aus einer anderen Perspektive. So entstehen Anwendungen, die Menschen überzeugen und wirklich genutzt werden.
 
   - type: definition
     title: Unsere Leistungen im Detail
@@ -24,15 +24,15 @@ body:
       - type: markdown
         term: User Research
         body: |
-          Mit Hilfe von User Journey Maps identifizieren wir mögliche Touchpoints sowie kritische Phasen entlang der Customer Journey. Wir analysieren wann und wie Ihre Produkte oder Services verwendet werden und was Nutzern dabei wichtig ist. Unser Ziel ist es, Bedürfnisse und Nutzungskontexte zu verstehen und mit den Anforderungen Ihres Unternehmens in Einklang zu bringen.
+          Mit Hilfe von User Journey Maps identifizieren wir mögliche Touchpoints sowie kritische Phasen entlang der Customer Journey. Wir analysieren wann und wie Ihre Produkte oder Services verwendet werden und was Nutzer:innen dabei wichtig ist. Unser Ziel ist es, Bedürfnisse und Nutzungskontexte zu verstehen und mit den Anforderungen Ihres Unternehmens in Einklang zu bringen.
       - type: markdown
         term: Usability Testing
         body: |
-          User Interfaces entwickeln wir unter Berücksichtigung von Nutzer, Kontext und Endgerät. Bevor wir einen Lösungsansatz weiterverfolgen, testen wir Usability und User Experience ausführlich anhand von Prototypen. Darüber hinaus unterstützen wir Sie dabei, die Usability von bestehenden Maßnahmen und Anwendungen zu verbessern.
+          User Interfaces entwickeln wir unter Berücksichtigung von Nutzer:innen, Kontext und Endgerät. Bevor wir einen Lösungsansatz weiterverfolgen, testen wir Usability und User Experience ausführlich anhand von Prototypen. Darüber hinaus unterstützen wir Sie dabei, die Usability von bestehenden Maßnahmen und Anwendungen zu verbessern.
       - type: markdown
         term: Information Architecture
         body: |
-          Ein schlüssiger Seitenaufbau und eine nachvollziehbare Struktur bilden die Basis für intuitive Nutzbarkeit und eine überzeugende User Experience. User Flows und Wireframes helfen uns bei Visualisierung und Aufbau von Sitemaps und Informationsarchitektur. Dadurch können wir sogar komplexe Informationen so strukturieren, dass Nutzer schnell die Inhalte finden, die sie suchen.
+          Ein schlüssiger Seitenaufbau und eine nachvollziehbare Struktur bilden die Basis für intuitive Nutzbarkeit und eine überzeugende User Experience. User Flows und Wireframes helfen uns bei Visualisierung und Aufbau von Sitemaps und Informationsarchitektur. Dadurch können wir sogar komplexe Informationen so strukturieren, dass Nutzer:innen schnell die Inhalte finden, die sie suchen.
       - type: markdown
         term: Conversion Optimierung
         body: |

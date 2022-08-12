@@ -11,7 +11,7 @@ items:
   - type: markdown
     title: Analysieren
     body: |
-      In dieser Phase stehen Aufgabe und User-Research im Vordergrund. Dafür analysieren wir Problemstellung, Zielgruppe, Mitbewerber und bestehende Maßnahmen. In Workshops, Umfragen und Interviews entwickeln wir gemeinsam mit unseren Kunden ein detailliertes Verständnis aller Anforderungen sowie Ziele und KPIs.
+      In dieser Phase stehen Aufgabe und User-Research im Vordergrund. Dafür analysieren wir Problemstellung, Zielgruppe, Mitbewerber und bestehende Maßnahmen. In Workshops, Umfragen und Interviews entwickeln wir gemeinsam mit unseren Kund:innen ein detailliertes Verständnis aller Anforderungen sowie Ziele und KPIs.
 
   - type: markdown
     title: Definieren
@@ -28,4 +28,4 @@ items:
     body: |
       In dieser Phase validieren und verbessern wir unsere Lösungsansätze. Die besten von ihnen setzen wir um und dokumentieren sie schlussendlich in Backlogs oder Pattern-Libraries.
 
-      Auf diese Weise antizipieren wir bereits im Projektverlauf mögliche Probleme und können sicher sein, dass die von uns entwickelten Lösungen am Ende tatsächlich auf die Bedürfnisse unserer Kunden und Nutzer einzahlen und die gewünschten Ergebnisse erzielen.
+      Auf diese Weise antizipieren wir bereits im Projektverlauf mögliche Probleme und können sicher sein, dass die von uns entwickelten Lösungen am Ende tatsächlich auf die Bedürfnisse unserer Kund:innen und Nutzer:innen einzahlen und die gewünschten Ergebnisse erzielen.

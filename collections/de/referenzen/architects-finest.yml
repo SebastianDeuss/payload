@@ -84,7 +84,7 @@ body:
   - type: markdown
     title: Interaktives Storytelling
     body: |
-      Die Geschichte hinter Architects’ Finest vermitteln wir auf besondere Art und Weise: Beim ersten Aufruf der Microsite werden Besucher in sieben kurzen Episoden durch die Story geführt und erschließen sich diese eigenständig mit wenigen Klicks oder Swipes. Das Keyvisual am Seitenende führt tiefer in die Seite, direkt zu den einzelnen Farbtönen der Kollektion.
+      Die Geschichte hinter Architects’ Finest vermitteln wir auf besondere Art und Weise: Beim ersten Aufruf der Microsite werden Besucher:innen in sieben kurzen Episoden durch die Story geführt und erschließen sich diese eigenständig mit wenigen Klicks oder Swipes. Das Keyvisual am Seitenende führt tiefer in die Seite, direkt zu den einzelnen Farbtönen der Kollektion.
 
   - type: gallery
     alias: group

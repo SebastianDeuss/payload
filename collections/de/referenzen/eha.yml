@@ -75,7 +75,7 @@ body:
   - type: markdown
     title: Digital First
     body: |
-      Bei der Überarbeitung des Brandings standen für uns die digitalen Touchpoints im Fokus, über die Kunden mit EHA interagieren. Erstmals lag der Schwerpunkt des Redesigns also nicht auf Geschäftsausstattung und Printkommunikation, sondern auf Website, Software und Onlinemarketing.
+      Bei der Überarbeitung des Brandings standen für uns die digitalen Touchpoints im Fokus, über die Kund:innen mit EHA interagieren. Erstmals lag der Schwerpunkt des Redesigns also nicht auf Geschäftsausstattung und Printkommunikation, sondern auf Website, Software und Onlinemarketing.
 
   - type: gallery
     alias: group
@@ -100,7 +100,7 @@ body:
   - type: markdown
     title: B2B-Kommunikation mit System
     body: |
-      Für den EHA-internen Gebrauch haben wir eine Pattern Library angelegt, über die Mitarbeiter jederzeit auf Guidelines und Assets zugreifen können. Da sich sämtliche Elemente des Frontends direkt aus der Bibliothek speisen, sind Änderungen in der Library automatisch auf der Website sichtbar.
+      Für den EHA-internen Gebrauch haben wir eine Pattern Library angelegt, über die Mitarbeiter:innen jederzeit auf Guidelines und Assets zugreifen können. Da sich sämtliche Elemente des Frontends direkt aus der Bibliothek speisen, sind Änderungen in der Library automatisch auf der Website sichtbar.
 
   - type: svg
     caption: Die Serifen-Font Merriweather vermittelt Geradlinigkeit und Seriösität, während die Geogrotesque eher technisch anmutet.
